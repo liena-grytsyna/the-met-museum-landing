@@ -4,11 +4,7 @@ The Met Museum Landing is a responsive promotional website for The Metropolitan 
 
 ## Live Preview
 
-The public GitHub Pages URL is currently not deployed and returns `404`:
-
-- Expected URL: [https://liena-grytsyna.github.io/the-met-museum-landing/](https://liena-grytsyna.github.io/the-met-museum-landing/)
-
-Update this section after deployment so the README points to a working public demo.
+https://liena-grytsyna.github.io/the-met-museum-landing/
 
 ## Design Reference
 
